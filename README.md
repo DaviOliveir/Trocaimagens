@@ -1,1 +1,1 @@
-# Trocaimagens
+# TrocarimagemJS
